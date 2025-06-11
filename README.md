@@ -32,3 +32,6 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/SanaaObied/Task2_React_Use_State_Palsoft
    cd Task2_React_Use_State
+   npm install
+   npm start
+
