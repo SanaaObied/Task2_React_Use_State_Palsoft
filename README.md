@@ -14,7 +14,7 @@ This is a simple React application that displays a list of countries using data 
 - Responsive grid layout using Bootstrap
 
 ## 🚀 Getting Started
-<img width="1280" alt="image" src="https://github.com/user-attachments/assets/2709db7d-1ceb-4d1f-b16c-4e67f0339b53" />
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/0ef2aa08-3e0e-40fb-abee-cbe02bea5205" />
 
 
 ### Prerequisites
