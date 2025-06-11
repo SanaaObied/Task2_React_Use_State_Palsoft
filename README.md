@@ -30,5 +30,5 @@ Make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/SanaaObied/Task2_React_Use_State_Palsoft
-   cd Task2_React_Use-State
+   git clone git clone https://github.com/SanaaObied/Task2_React_Use_State_Palsoft
+   cd Task2_React_Use_State
